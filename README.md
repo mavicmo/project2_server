@@ -1,7 +1,7 @@
 ## Project 2: Recipe Collections
 
 Link to project: https://mavicmo.github.io/project2_client/
-Link to backend: https://github.com/mavicmo/project2_server
+Link to frontend: https://github.com/mavicmo/project2_client
 
 ## Summary
 
